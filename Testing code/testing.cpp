@@ -1,6 +1,8 @@
 //============================================================================
 // Name        : Dual.cpp
-// Author      : Henry Cole & Jaiden Westover 
+// Author      : Jaiden Westover & Henry Cole
+//			- Henry Cole: Maxon specific code
+//			- Jaiden Westover: Everything else 
 // Version     : 23.0
 // Description : Epos motor control in in C++ for use with flapparatus 5.0
 // Notes       : Henry's Latest Version (Fastest thus far at roughly 10 Hz)
