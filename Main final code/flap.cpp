@@ -1,10 +1,12 @@
 //============================================================================
-// Name        : Dual.cpp
-// Author      : Jaiden Westover & Henry Cole
+// Authors        : Jaiden Westover & Henry Cole
 //                  - Henry Cole: Maxon specific code
-//                  - Jaiden Westover: all other code, lexical analysis parsing machiene,
+//                  - Jaiden Westover: all other code; lexical analysis parsing machiene,
 //                                     calculator, User input, etc.
-// Version     : 24.0
+// Version     : 25.0
+// Description : Code used and operated for the MSU Bozeman bio inspiored labatory for the purpose 
+//		 of studying wing flex dynamics and flight motion profiles of moths and other
+// 		 insects. Capstone project High speed spherical actuator. 
 //============================================================================
 #include <iostream>
 #include <string>
